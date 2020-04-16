@@ -9,8 +9,8 @@ class Header {
         <div class="navbar-fixed">
           <nav>
           <div class="nav-wrapper">
-            <img class="shop" src="./static/images/Icons/porridge.svg" alt="">
-            <a href="index.html" class="brand-logo"><Logo>ГречкаЕд</a>
+            <img class="shop" src="./static/images/Icons/fire.svg" alt="">
+            <a href="index.html" class="brand-logo"><Logo>Survivor store</a>
             <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
             <ul class="right hide-on-med-and-down">
               <li>
