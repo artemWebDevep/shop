@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+.shop {
+    padding: 5px 10px 0 20px;;
+}
+
+.heading {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.content{
+  margin: 10px 0 0 250px;
+  text-align: center;
+}
+
+.magazine {
+  text-align: center;
+}
